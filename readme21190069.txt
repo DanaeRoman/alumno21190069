@@ -1,4 +1,8 @@
 Nombre: 
 Matrícula: 21190069
 Carrera: TI
+<<<<<<< HEAD
 Modificación desde rama principal
+=======
+Modificación desde nueva rama
+>>>>>>> nueva-rama
